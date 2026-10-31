@@ -1,8 +1,8 @@
 # 🚀 Kaya Project
 
-![GitHub Contributors](https://shields.io)
-![GitHub Pull Requests](https://shields.io)
-![GitHub License](https://shields.io)
+![GitHub contributors](https://img.shields.io/github/contributors/Eymenpixel/Kaya-Fan)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Eymenpixel/Kaya-Fan)
+![License](https://img.shields.io/github/license/Eymenpixel/Kaya-Fan)
 
 Welcome to the official repository for **Kaya**, developed by **Eymenpixel**! Feel free to contribute your packages, plugins, optimization tools, or custom assets to expand our secure runtime ecosystem. 📈
 
@@ -18,4 +18,4 @@ To add your own files, code snippets, or changes to this repository, follow thes
 4. **Open a Pull Request:** Navigate back to the original repository (`Eymenpixel/Kaya`), go to the **"Pull requests"** tab, and click the green **"New pull request"** button.
 5. **Submit:** Click **"Create pull request"** to send it over. I will review your submission and merge it into the main repository if it looks good!
 
-Thank you for contributing to the Kaya package manager infrastructure! Keep cooking! 🦖
+Thank you for contributing to the Kaya package manager infrastructure! Keep it On! 🦖
